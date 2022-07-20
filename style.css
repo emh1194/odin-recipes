@@ -5,3 +5,15 @@
 .text {
     font-family: Arial, Helvetica, sans-serif
 }
+
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
